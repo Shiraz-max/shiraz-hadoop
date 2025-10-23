@@ -77,3 +77,4 @@ $ chmod u+x cloudera-manager-installer.bin
 
 $ sudo ./cloudera-manager-installer.bin
 
+***********************************************************
